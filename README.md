@@ -42,7 +42,7 @@ Substitua os valores pelas suas credenciais reais da AWS.
 1. Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/email-service.git
+git clone https://github.com/JPyCode/email-service.git
 cd email-service
 ```
 2. Compile o projeto usando o Maven:
